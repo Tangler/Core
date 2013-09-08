@@ -1,0 +1,14 @@
+.settings
+.settings.xml
+.metadata
+.buildpath
+.gitignore
+.DS_Store
+vendor/
+tangler.sublime-workspace
+build
+DEADJOE
+*~
+*.swp
+tags
+tangler.sqlite3
